@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string-array name="app_tab_array">
+        <item>北京</item>
+        <item>上海</item>
+        <item>广州</item>
+        <item>深圳</item>
+        <item>苏州</item>
+        <item>沈阳</item>
+    </string-array>
+</resources>
